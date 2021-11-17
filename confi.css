@@ -1,0 +1,60 @@
+body{
+				
+		margin-bottom:140px;
+        margin-right:140px;
+        margin-top:140px;
+        margin-left:140px;
+
+
+
+		}
+
+
+		div{
+			border-style: solid;
+			margin-bottom:10px;
+            margin-right:10px;
+            margin-top:10px;
+            margin-left:10px;
+            padding:20px;
+         
+		}
+
+		p{
+
+			 font-size:16pt;
+			 text-indent:70px;
+			 text-align:justify;
+		}
+
+		
+
+		.meuestilo{
+
+			font-style:italic;
+			
+
+		}
+
+		border-style{
+
+		border-top-style:solid;
+		border-left-color: grey;
+	}
+
+	div{
+		background-color:#DCDCDC;
+
+		}
+
+	nav{
+
+		background-color: grey;
+	}
+
+
+
+		
+	}	
+	}
+	}
